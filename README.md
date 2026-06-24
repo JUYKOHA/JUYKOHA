@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MOHAMED AZIZ HAMDI
-- 👀 I’m interested in web developement...
-- 🌱 I’m currently learning sciences informatique...
-- 💞️ I’m looking to collaborate on  cyber security...
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning sciences informatique
+- 💞️ I’m looking to collaborate on  cyber security
 - 📫 mohamedaziz.hamdi277@gmail.com
 
 <!---
